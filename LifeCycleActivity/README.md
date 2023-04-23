@@ -120,9 +120,9 @@ public class MainActivity extends AppCompatActivity {
 
 ## OUTPUT
 
-![](op1.png)
-![](op2.png)
-![](op3.png)
+![image](https://user-images.githubusercontent.com/94155480/233846510-01583f4b-e66b-4f3c-9c05-409db6929696.png)
+![image](https://user-images.githubusercontent.com/94155480/233846530-a12c0bba-5a23-4729-9c13-a53c61473366.png)
+![image](https://user-images.githubusercontent.com/94155480/233846553-2b524ba4-3f06-4d94-8c7f-bea57a8d6f25.png)
 
 ## RESULT
 
